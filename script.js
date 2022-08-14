@@ -1,4 +1,4 @@
-//(Main theme: Programming Basics)
+//(Main theme: Programming Basics )
 
 function logOutNumbers(){
     for (let i = 0; i < 101 ; i++){
